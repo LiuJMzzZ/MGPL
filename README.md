@@ -1,4 +1,4 @@
-# MGPL - Learning Mutiple Gaussian Prototypes for Open-set Recognition
+# MGPL - Learning Multiple Gaussian Prototypes for Open-set Recognition
 
 
 ## Abstract
@@ -29,3 +29,16 @@ Then test to obtain the result by
 We use the same known-open classes split as [OSRCI](https://github.com/lwneal/counterfactual-open-set) for fair comparision.
 
 
+##Bibtex
+
+@article{LIU2023738,
+title = {Learning multiple gaussian prototypes for open-set recognition},
+journal = {Information Sciences},
+volume = {626},
+pages = {738-753},
+year = {2023},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2023.01.062},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025523000622},
+author = {Jiaming Liu and Jun Tian and Wei Han and Zhili Qin and Yulu Fan and Junming Shao},
+}
